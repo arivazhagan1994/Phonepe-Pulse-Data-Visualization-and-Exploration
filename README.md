@@ -18,18 +18,18 @@ Clone the repository:
 git clone <your-repository-link>
 cd PhonePe_Pulse_Project
 
-Install dependencies:
-pip install -r requirements.txt
+## Install dependencies:
+       pip install -r requirements.txt
 
-Configure MySQL connection in the connection() function.
-Run the Streamlit app:
-streamlit run app.py
+       Configure MySQL connection in the connection() function.
+## Run the Streamlit app:
+       streamlit run app.py
 
-📈 Insights
-Identify states with the highest transactions or insurance amounts.
-Explore trends across quarters and years.
-Detect outliers in transaction patterns.
-📝 Future Enhancements
-Add PDF and PPT export features for visualizations.
-Integrate user authentication for data security.
-Enable real-time data updates.
+## 📈 Insights
+      - Identify states with the highest transactions or insurance amounts.
+      - Explore trends across quarters and years.
+      - Detect outliers in transaction patterns.
+## 📝 Future Enhancements
+      - Add PDF and PPT export features for visualizations.
+      - Integrate user authentication for data security.
+      - Enable real-time data updates.
