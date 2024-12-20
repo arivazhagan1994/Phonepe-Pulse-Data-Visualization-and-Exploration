@@ -2,7 +2,7 @@
 
 # 📊 PhonePe Pulse Data Analysis and Visualization
 ## 🔍 Project Overview
-      - This project analyzes and visualizes PhonePe Pulse data using Streamlit, Plotly, and MySQL. Explore trends in transactions, insurance, and user growth with interactive charts and maps.
+  - This project analyzes and visualizes PhonePe Pulse data using Streamlit, Plotly, and MySQL. Explore trends in transactions, insurance, and user growth with interactive charts and maps.
 
 ## 🚀 Features
   - Choropleth Maps: Visualize state-level aggregates for transactions, users, and insurance.
@@ -26,10 +26,10 @@ cd PhonePe_Pulse_Project
        streamlit run app.py
 
 ## 📈 Insights
-      - Identify states with the highest transactions or insurance amounts.
-      - Explore trends across quarters and years.
-      - Detect outliers in transaction patterns.
+   - Identify states with the highest transactions or insurance amounts.
+   - Explore trends across quarters and years.
+   - Detect outliers in transaction patterns.
 ## 📝 Future Enhancements
-      - Add PDF and PPT export features for visualizations.
-      - Integrate user authentication for data security.
-      - Enable real-time data updates.
+   - Add PDF and PPT export features for visualizations.
+   - Integrate user authentication for data security.
+   - Enable real-time data updates.
